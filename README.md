@@ -1,18 +1,26 @@
-# 新闻页面
+# Boliming Web Source Nuxt3
 
-## 技术栈
+## 版本
 
-- Nuxt
-- Element-plus
-- Pnpm
+v-0.1.0
 
-## 文件布局
+## 开发环境
 
-```json
-treer -i node_modules -e tree.txt
-```
+### 包管理工具
 
-```json
+- [Pnpm](https://pnpm.io/)
+  
+### 框架
+
+- [Nuxt3](https://nuxt.com/)]
+
+### 组件库
+
+- [Element-plus](https://element-plus.org/)
+
+## 目录结构
+
+```txt
 package
 ├─.gitignore
 ├─app.vue
@@ -47,4 +55,12 @@ package
 ├─components
 ├─assets
 |   └main.css
+```
+
+## 安装依赖
+
+请确保你已经安装了 [pnpm](https://pnpm.io/)，然后运行以下命令来安装依赖：
+
+```bash
+pnpm install
 ```
