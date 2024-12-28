@@ -1,0 +1,34 @@
+package
+├─.gitignore
+├─app.vue
+├─nuxt.config.ts
+├─package.json
+├─pnpm-lock.yaml
+├─README.md
+├─tsconfig.json
+├─uno.config.ts
+├─stores
+|   └tabs.ts
+├─server
+|   ├─tsconfig.json
+|   ├─api
+|   |  └hello.ts
+├─public
+|   ├─favicon.ico
+|   └robots.txt
+├─plugins
+├─pages
+|   ├─user
+|   |  └index.vue
+|   ├─index
+|   |   └index.vue
+|   ├─404
+|   |  └index.vue
+├─middleware
+|     └router.global.ts
+├─layouts
+|    ├─404.vue
+|    └default.vue
+├─components
+├─assets
+|   └main.css
