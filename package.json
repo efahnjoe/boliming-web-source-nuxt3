@@ -22,6 +22,7 @@
     "axios": "^1.7.9",
     "dayjs": "^1.11.13",
     "element-plus": "^2.9.1",
+    "esbuild": "^0.24.2",
     "lodash-unified": "^1.0.3",
     "nuxt": "^3.13.2",
     "pinia": "^2.3.0",
@@ -36,8 +37,5 @@
     "@unocss/nuxt": "^0.65.3",
     "@unocss/preset-legacy-compat": "^0.65.3",
     "@unocss/transformer-variant-group": "^0.65.3"
-  },
-  "resolutions": {
-    "esbuild": "npm:esbuild-wasm@latest"
   }
 }
